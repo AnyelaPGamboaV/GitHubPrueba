@@ -3,3 +3,5 @@ AGREGAR LLAVE A GITHUB
 2.cat ~/.ssh/id_ed25519.pub
 
 SUBIR ARCHIVOS A GITHUB
+git config --global user.name
+git config --global user.email
